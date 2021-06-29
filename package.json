@@ -1,0 +1,25 @@
+{
+  "name": "portfolio_jody",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jody29/portfolio_jody.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Jody Lorist",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jody29/portfolio_jody/issues"
+  },
+  "homepage": "https://github.com/jody29/portfolio_jody#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
